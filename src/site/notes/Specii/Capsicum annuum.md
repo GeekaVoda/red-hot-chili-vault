@@ -9,6 +9,7 @@
 > Capsicum annuum - reprezentativ
 
 
+
 ## I. Originea și contextul istoric
 
 ### Preistoria ardeiului
