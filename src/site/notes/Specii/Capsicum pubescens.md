@@ -5,6 +5,8 @@
 # Monografie botanică, istoric și gastronomie
 
 
+![capsicum_pubescens_reprezentative.png](/img/user/Resurse/@site_related/capsicum_pubescens_reprezentative.png)
+> Capsicum pubescens - reprezentativ
 
 ## I. Originea și contextul istoric
 ### Preistoria ardeiului
@@ -32,9 +34,6 @@ Expansiunea sa în afara ariei andine s-a produs abia la începutul secolului al
 - **Enclave muntoase din Indonezia și Filipine**: unde anumiți coloniști au reușit cultivarea sa pe pantele vulcanice înalte, unde temperaturile și regimul de precipitații mimau climatul andin originar.
 
 În prezent, specia rămâne un simbol al agriculturii montane sud-americane, fiind cultivată cu aceleași tehnici tradiționale pe terasele agricole incașe (*andenes*) care flanchează văile alpine din Peru și Bolivia.
-
-![capsicum_pubescens_reprezentative.png](/img/user/Resurse/@site_related/capsicum_pubescens_reprezentative.png)
-> Capsicum pubescens - reprezentativ
 
 ---
 

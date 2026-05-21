@@ -5,6 +5,8 @@
 # Monografie botanică, istoric și gastronomie
 
 
+![capsicum_frutescens_reprezentative.png](/img/user/Resurse/@site_related/capsicum_frutescens_reprezentative.png)
+> Capsicum frutescens - reprezentativ
 
 ## I. Originea și contextul istoric
 
@@ -38,9 +40,6 @@ Traseul răspândirii globale evidențiază următoarele repere:
 - **America de Nord (Bazinul Mississippi)** — mijlocul secolului al XIX-lea. Introducerea controlată a unor varietăți din America Centrală în statul Louisiana a pus bazele primei industrii agricole moderne dedicate acestei specii.
 
 Această dinamică de răspândire reprezintă o componentă majoră a Schimbului Columbian, demonstrând adaptabilitatea ecologică excepțională a speciei în arealul intertropical, unde a devenit adesea o plantă spontană, integrată complet în ecosistemele locale.
-
-![capsicum_frutescens_reprezentative.png](/img/user/Resurse/@site_related/capsicum_frutescens_reprezentative.png)
-> Capsicum frutescens - reprezentativ
 
 ---
 

@@ -5,6 +5,8 @@
 # Monografie botanică, istoric și gastronomie
 
 
+![capsicum_chinense_reprezentative.png](/img/user/Resurse/@site_related/capsicum_chinense_reprezentative.png)
+> Capsicum chinense - reprezentativ
 
 ## I. Originea și contextul istoric
 
@@ -33,9 +35,6 @@ Răspândirea globală post-columbiană s-a realizat prin circuite coloniale dis
 - **Bazinul Caraibian și comerțul transatlantic**: Portughezii și spanioli au preluat varietățile insulare, transportându-le către Europa, unde însă cultivarea pe scară largă a fost limitată de necesarul uriaș de unități termice.
 - **Ruta Slavei și Africa de Vest**: Planta a fost introdusă masiv în regiunile de coastă ale Africii Occidentale (Nigeria, Ghana, Senegal), devenind un element definitoriu al agriculturii locale sub denumiri precum *Scotch Bonnet*.
 - **Rutele Maritime Asiatice**: Prin intermediul porturilor coloniale, specia a pătruns în India, Sri Lanka și regiunea Assam, dând naștere unor cultivare locale celebre, adaptate la climatul musonic extrem.
-
-![capsicum_chinense_reprezentative.png](/img/user/Resurse/@site_related/capsicum_chinense_reprezentative.png)
-> Capsicum chinense - reprezentativ
 
 ---
 

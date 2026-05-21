@@ -8,6 +8,7 @@
 > „*Alle Dinge sind Gift, und nichts ist ohne Gift, allein die Dosis macht dass ein Ding kein Gift ist.* Toate au otravă și nimic nu este fără otravă, doza singură face un lucru neotrăvitor.”
 > — **Paracelsus**, 1538
 
+
 Acest document constituie structura de fundamentare taxonomică superioară pentru monografiile colecției, definind poziția sistematică a ardeilor în cadrul regnului vegetal. Analiza parcurge treptele ierarhice fundamentale — Regn, Diviziune, Clasă, Ordin și Familie —, evidențiind caracterele de diagnostic botanic, evolutiv și biochimic care determină identitatea și funcționarea genului *Capsicum*.
 
 ![Taxonomia genului Caspicum.png](/img/user/Resurse/@site_related/Taxonomia%20genului%20Caspicum.png)

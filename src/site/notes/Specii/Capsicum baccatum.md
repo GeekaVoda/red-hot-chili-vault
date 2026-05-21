@@ -5,6 +5,8 @@
 # Monografie botanică, istoric și gastronomie
 
 
+![capsicum_baccatum_reprezentative.png](/img/user/Resurse/@site_related/capsicum_baccatum_reprezentative.png)
+> Capsicum baccatum - reprezentativ
 
 ## I. Originea și contextul istoric
 
@@ -36,9 +38,6 @@ Cu toate acestea, anumite rute comerciale maritime au favorizat apariția unor e
 - **Europa (Bazinul Mediteranean)**: unde cultivarea s-a realizat pe suprafețe restrânse, planta fiind adesea menținută ca curiozitate botanică sau ca plantă ornamentală datorită formei deosebite a fructelor și florilor.
 
 În prezent, specia își menține poziția de lider agricol în perimetrul andin, fiind recunoscută ca o componentă de bază a patrimoniului genetic și biocultural al Americii de Sud.
-
-![capsicum_baccatum_reprezentative.png](/img/user/Resurse/@site_related/capsicum_baccatum_reprezentative.png)
-> Capsicum baccatum - reprezentativ
 
 ---
 
