@@ -4,6 +4,7 @@
 
 # O perspectivă integrată asupra celor cinci specii majore cultivate
 
+![capsicum_sintetic.png](/img/user/Resurse/@site_related/capsicum_sintetic.png)
 
 
 ## I. Introducere și cadrul taxonomic extins (Solanaceae)
@@ -44,7 +45,6 @@ După anul 1492, genul a cunoscut o expansiune globală unică prin rapiditate �
 
 ---
 
-![capsicum_sintetic.png](/img/user/Resurse/@site_related/capsicum_sintetic.png)
 ## III. Analiza comparativă a celor cinci specii majore cultivate: [[Specii/Capsicum annuum\|Capsicum annuum]], [[Specii/Capsicum frutescens\|Capsicum frutescens]], [[Specii/Capsicum chinense\|Capsicum chinense]], [[Specii/Capsicum baccatum\|Capsicum baccatum]], [[Specii/Capsicum pubescens\|Capsicum pubescens]].
 
 Identificarea și diferențierea speciilor din cadrul genului *Capsicum* necesită analiza corelată a caracterelor de diagnostic botanic (organografie florală și seminală) și a adaptărilor ecologice primare.

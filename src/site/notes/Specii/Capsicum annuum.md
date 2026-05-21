@@ -8,6 +8,7 @@
 ![capsicum_annuum_reprezentative.png](/img/user/Resurse/@site_related/capsicum_annuum_reprezentative.png)
 > Capsicum annuum - reprezentativ
 
+
 ## I. Originea și contextul istoric
 
 ### Preistoria ardeiului
