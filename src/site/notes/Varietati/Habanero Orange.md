@@ -3,7 +3,7 @@
 ---
 
 
-## Habanero Orange: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Habanero Orange reprezintă varietatea clasică și cea mai răspândită a acestui grup, fiind considerat etalonul pentru profilul aromatic al speciei _Capsicum chinense_. Este apreciat pentru culoarea sa vibrantă și pentru echilibrul dintre iuțeala intensă și notele fructate, fiind ingredientul de bază în majoritatea sosurilor picante comerciale din emisfera vestică. Din punct de vedere economic, este cea mai cultivată varietate de Habanero la nivel mondial, datorită adaptabilității sale ridicate și a cererii constante din industria alimentară.
 

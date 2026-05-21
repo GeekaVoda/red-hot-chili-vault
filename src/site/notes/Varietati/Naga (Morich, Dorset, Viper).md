@@ -3,7 +3,7 @@
 ---
 
 
-## Naga: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeii din familia Naga (precum **Naga Morich**, **Dorset Naga** sau **Naga Viper**) reprezintă un grup de ardei „super-hot” de elită, strâns înrudit cu celebrul _Bhut Jolokia_. Aceștia sunt renumiți pentru iuțeala lor sălbatică, fiind printre primele varietăți care au pus bazele culturii moderne a ardeilor iuți extremi în Europa, în special în Marea Britanie. Din punct de vedere gastronomic, sunt utilizați pentru a crea sosuri și curry-uri de o intensitate devastatoare, fiind apreciați pentru profilul aromatic floral și pentru modul „pervers” în care se instalează arsura.
 

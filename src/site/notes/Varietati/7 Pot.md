@@ -3,7 +3,7 @@
 ---
 
 
-## 7 Pot: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul 7 Pot (cunoscut și sub numele de **7 Pod**) reprezintă o familie legendară de ardei „super-hot” originari din Caraibe. Denumirea provine dintr-o legendă locală care susține că un singur fruct din această varietate este suficient pentru a oferi o iuțeală extremă pentru șapte oale (_pots_) pline cu tocană. Din punct de vedere economic, este o varietate esențială pentru colecționari și pentru producătorii de sosuri artizanale, fiind considerat unul dintre cei mai iuti ardei existenți, situat imediat sub pragul recordurilor mondiale absolute.
 

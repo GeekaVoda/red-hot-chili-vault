@@ -3,7 +3,7 @@
 ---
 
 
-## Habanero Chocolate: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Habanero Chocolate (cunoscut și sub numele de **Congo Black** sau **Habalokia**) reprezintă una dintre cele mai puternice și complexe varietăți din grupul Habanero. Acesta este apreciat de cunoscători pentru profilul său aromatic unic, care combină iuțeala extremă cu note pământii și de fum, fiind radical diferit de variantele portocalii sau roșii. Din punct de vedere economic, este o varietate premium, căutată pentru producția de sosuri artizanale de tip „dark” și pentru marinadele specifice stilului _Jamaican Jerk_.
 

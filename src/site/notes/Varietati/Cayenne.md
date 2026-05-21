@@ -3,7 +3,7 @@
 ---
 
 
-## Cayenne: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Cayenne reprezintă una dintre cele mai cunoscute și utilizate varietăți de ardei iute la nivel global, fiind standardul de referință pentru pudra de ardei iute comercială. Este apreciat pentru versatilitatea sa extremă, fiind utilizat atât în stare proaspătă, cât și uscat sau sub formă de fulgi. Din punct de vedere economic, este o cultură industrială masivă, fiind pilonul central în producția de sosuri picante tip „vinegar-base” (cum este sosul de tip Louisiana) și în industria farmaceutică pentru extragerea capsaicinei utilizate în unguente analgezice.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Poblano: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Poblano reprezintă una dintre cele mai populare și versatile varietăți de ardei din Mexic, fiind pilonul central al unor preparate emblematice precum _Chiles en Nogada_ sau _Chile Relleno_. Acesta este apreciat pentru dimensiunile sale generoase și pereții de grosime medie, dar mai ales pentru aroma sa bogată, care primează în fața iuțelii reduse. Din punct de vedere economic și cultural, este indispensabil în gastronomia mexicană, unde varianta sa uscată, cunoscută sub numele de **Ancho**, reprezintă un ingredient de bază pentru sosurile tip _mole_.
 

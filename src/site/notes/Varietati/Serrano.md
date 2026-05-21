@@ -3,7 +3,7 @@
 ---
 
 
-## Serrano: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Serrano reprezintă o varietate esențială în gastronomia mexicană autentică, fiind adesea preferat în locul ardeiului Jalapeño pentru preparatele care necesită o intensitate mai ridicată și o textură mai crocantă. Acesta este apreciat pentru pereții săi subțiri și conținutul ridicat de semințe, caracteristici care îl fac ideal pentru consumul în stare crudă în sosuri tip _pico de gallo_ sau pentru prăjire. Din punct de vedere economic, Serrano este a doua cea mai cultivată varietate de ardei iute în Mexic, fiind produs masiv în statele muntoase.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Satan's Kiss: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Satan's Kiss (cunoscut în Italia sub numele de **Ciliegia Piccante** sau **Bacio di Satana**) reprezintă o varietate tradițională italiană, extrem de populară în regiunile sudice pentru proprietățile sale culinare specifice. Acesta este apreciat pentru forma sa sferică, asemănătoare unei cireșe, și pentru textura fermă a pulpei, fiind considerat ardeiul ideal pentru a fi umplut cu ton, hamsii sau brânză. Din punct de vedere gastronomic, este un element de bază în conservarea artizanală a legumelor în ulei de măsline.
 

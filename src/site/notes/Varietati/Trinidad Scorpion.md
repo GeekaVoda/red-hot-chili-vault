@@ -3,7 +3,7 @@
 ---
 
 
-## Trinidad Scorpion: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Trinidad Scorpion reprezintă o familie de varietăți „super-hot” care a dominat vârful scării Scoville la începutul anilor 2010. Este recunoscut pentru forma sa agresivă și pentru iuțeala devastatoare care atacă instantaneu. Din punct de vedere economic, a pus insula Trinidad pe harta mondială a cultivatorilor de elită, fiind baza multor sosuri ultra-picante care utilizează extracte naturale în locul capsaicinei sintetice.
 

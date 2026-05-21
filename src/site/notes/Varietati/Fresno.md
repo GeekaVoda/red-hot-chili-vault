@@ -3,7 +3,7 @@
 ---
 
 
-## Fresno: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Fresno reprezintă o varietate de referință în categoria ardeilor cu iuțeală moderată, fiind adesea confundat vizual cu Jalapeño, dar distinct prin proprietățile sale organoleptice. Acesta este apreciat pentru pereții săi mai subțiri și profilul aromatic mai complex, fiind ideal pentru consumul în stare crudă, în sosuri de tip salsa sau pentru murare rapidă. Din punct de vedere comercial, Fresno este o cultură importantă în Statele Unite, în special în California, unde a fost dezvoltat inițial pentru producția de masă.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Bird’s Eye Demon: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Bird’s Eye Demon reprezintă o selecție hibridă de tip Thai, creată pentru a maximiza productivitatea și iuțeala în cadrul segmentului de dimensiuni mici. Acesta este apreciat în special de cultivatorii comerciali și de pasionații de bucătărie asiatică pentru numărul masiv de fructe produse de o singură plantă și pentru iuțeala sa incisivă. Din punct de vedere gastronomic, este utilizat pentru a oferi un „kick” instantaneu preparatelor de tip stir-fry, supelor asiatice sau pentru a fi murat întreg în sos de pește și soia.
 

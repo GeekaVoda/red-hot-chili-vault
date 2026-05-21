@@ -3,7 +3,7 @@
 ---
 
 
-## Rocoto Canario: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Rocoto Canario (cunoscut și sub numele de Rocoto Amarillo) reprezintă varianta galbenă a speciei _Capsicum pubescens_, fiind una dintre cele mai apreciate selecții din regiunile înalte ale Perului și Boliviei. Acesta este recunoscut pentru culoarea sa vibrantă și pentru profilul aromatic care, deși păstrează iuțeala caracteristică speciei, tinde să prezinte note mai dulci și mai tropicale decât variantele roșii. Din punct de vedere gastronomic, este utilizat pentru a crea sosuri cu o culoare aurie spectaculoasă și pentru a oferi o bază picantă preparatelor pe bază de pește sau fructe de mare.
 

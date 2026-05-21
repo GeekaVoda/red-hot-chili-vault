@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño reprezintă varietatea de referință în segmentul de iuțeală medie, fiind un pilon central al bucătăriei mexicane și Tex-Mex. Acesta este apreciat pentru textura sa cărnoasă și pereții groși ai fructului, caracteristici ce îl fac ideal pentru murare, coacere sau umplere. Din punct de vedere economic, este una dintre cele mai importante culturi de _Capsicum_ la nivel global, cu centre masive de producție în Mexic și sudul Statelor Unite.
 

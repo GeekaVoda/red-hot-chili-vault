@@ -3,7 +3,7 @@
 ---
 
 
-## Tepin: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Tepin (cunoscut și sub numele de **Chiltepin**) este considerat „mama tuturor ardeilor”, fiind varietatea sălbatică din care au evoluat majoritatea ardeilor iuți cultivați astăzi. Este singurul ardei iute nativ din America de Nord (zona de sud a SUA și nordul Mexicului). Din punct de vedere economic și cultural, este un produs de lux, deoarece recoltarea se face predominant manual din flora sălbatică, ceea ce îi conferă un preț ridicat pe piața condimentelor gourmet.
 

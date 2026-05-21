@@ -3,7 +3,7 @@
 ---
 
 
-## 7 Pot Douglah: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul 7 Pot Douglah (cunoscut și sub numele de **7 Pot Brown** sau **Chocolate 7 Pot**) este considerat de mulți experți și cultivatori drept cel mai iute ardei din lume care nu are culoarea roșie. Acesta face parte din elita categoriei „super-hot”, fiind renumit pentru faptul că, deși nu deține oficial recordul mondial, este adesea perceput ca fiind mai agresiv și mai iute în testele de degustare comparativ cu varietăți precum _Trinidad Scorpion Moruga_. Din punct de vedere economic, este o varietate premium, utilizată exclusiv pentru sosuri de tip „ultra-hot” și pudre concentrate de mare forță.
 

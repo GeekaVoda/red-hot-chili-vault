@@ -3,7 +3,7 @@
 ---
 
 
-## Ají Amarillo: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Aji Amarillo (cunoscut și sub numele de _Escabeche_ sau _Aji Verde_ în faza imatură) reprezintă ingredientul fundamental al gastronomiei peruviene, fiind considerat „ADN-ul” gustului local. Acesta este apreciat pentru echilibrul său rar între o iuțeală moderată și un profil aromatic intens fructat, care definește preparate iconice precum _Causa Rellena_, _Papa a la Huancaína_ sau _Aji de Gallina_. Din punct de vedere economic, este cel mai cultivat și consumat ardei din Peru, fiind disponibil pe piață sub formă proaspătă, pastă, uscată (_Aji Mirasol_) sau congelată.
 

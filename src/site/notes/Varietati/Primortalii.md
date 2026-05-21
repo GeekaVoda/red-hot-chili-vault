@@ -3,7 +3,7 @@
 ---
 
 
-## Primortalii: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeii din linia **Primortali** (Primotalii) reprezintă una dintre cele mai recente și brutale adiții în categoria ardeilor „super-hot”, fiind considerați de mulți experți ca fiind candidați reali pentru depășirea recordului de iuțeală deținut de Carolina Reaper. Această varietate este apreciată în cercurile restrânse de cultivatori extremi pentru aspectul său terifiant și pentru atacul agresiv asupra receptorilor de durere. Din punct de vedere economic, este o varietate de colecție, utilizată aproape exclusiv pentru producția de sosuri ultra-picante în ediții limitate.
 

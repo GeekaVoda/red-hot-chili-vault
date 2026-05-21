@@ -3,7 +3,7 @@
 ---
 
 
-## Pequin: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Pequin (cunoscut și sub numele de **Piquín**) este o varietate de ardei iute de dimensiuni reduse, strâns înrudit cu varietatea sălbatică _Tepin_. Deși este adesea confundat cu acesta, Pequin este o varietate cultivată, apreciată pentru echilibrul său aromatic și pentru iuțeala sa pregnantă. Din punct de vedere economic, este un ingredient de bază în bucătăria mexicană, fiind utilizat pentru a crea sosuri celebre (precum _Cholula_), dar și sub formă de condiment uscat sau murat. Este considerat un ardei „premium” datorită dificultății recoltării manuale a fructelor atât de mici.
 

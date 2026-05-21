@@ -3,7 +3,7 @@
 ---
 
 
-## Thai Bird's Eye: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Thai Bird's Eye (cunoscut și sub denumirea de _Prik Ki Nu_ în Thailanda) reprezintă un element indispensabil în bucătăria din Asia de Sud-Est, în special în Thailanda, Vietnam și Cambodgia. Acesta este apreciat pentru iuțeala sa explozivă și profilul aromatic curat, fiind utilizat pentru a oferi o notă picantă intensă supelor, curry-urilor și sosurilor de pește. Din punct de vedere economic, este una dintre cele mai exportate varietăți de ardei iute din Asia, fiind un pilon central al piețelor de profil din întreaga lume.
 

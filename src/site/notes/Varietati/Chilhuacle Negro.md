@@ -3,7 +3,7 @@
 ---
 
 
-## Chilhuacle Negro: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Chilhuacle Negro reprezintă una dintre cele mai rare și prețioase varietăți de ardei iute din Mexic, fiind un ingredient legendar și obligatoriu pentru prepararea celebrului _Mole Negro_ din regiunea Oaxaca. Numele său provine din limba Nahuatl și se traduce prin „ardei iute vechi”, reflectând istoria sa milenară. Din punct de vedere economic, este un produs de lux din cauza zonei de cultivare extrem de restrânse și a procesului dificil de producție, fiind adesea considerat „aurul negru” al condimentelor mexicane.
 

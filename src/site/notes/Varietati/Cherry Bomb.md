@@ -3,7 +3,7 @@
 ---
 
 
-## Cherry Bomb: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Cherry Bomb reprezintă una dintre cele mai populare varietăți de ardei de tip „cireșă”, fiind apreciat în special în Statele Unite și Canada pentru versatilitatea sa culinară. Acesta este recunoscut pentru echilibrul optim între dimensiunea fructului, grosimea pereților și nivelul moderat de iuțeală. Din punct de vedere gastronomic, este considerat varietatea standard pentru prepararea aperitivelor murate sau umplute cu brânză, datorită formei sale estetice și texturii care își păstrează fermitatea după procesare.
 

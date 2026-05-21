@@ -3,7 +3,7 @@
 ---
 
 
-## Rocoto Montufar: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Rocoto Montufar reprezintă o varietate rară și distinctivă a speciei _Capsicum pubescens_, originară din zonele înalte ale Americii de Sud. Acesta este apreciat de colecționari și cultivatori pentru vigoarea sa excepțională și pentru forma fructelor, care tind să fie mai mici și mai ascuțite decât varietățile tipice de tip „măr”. Din punct de vedere gastronomic, Montufar este utilizat pentru a oferi o iuțeală precisă și o textură crocantă, fiind ideal pentru sosurile proaspete unde se dorește un echilibru între suculența specifică speciei și o manipulare mai ușoară în bucătărie.
 

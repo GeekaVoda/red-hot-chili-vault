@@ -3,7 +3,7 @@
 ---
 
 
-## Pasilla: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Pasilla reprezintă cea de-a treia componentă fundamentală a „Sfintei Treimi” a ardeilor iuți uscați din Mexic, fiind indispensabil pentru obținerea sosurilor _mole_ autentice și a celebrului sos _Oaxacan_. Denumirea sa face referire la textura și aspectul fructului deshidratat, care amintește de o stafidă mare. Este apreciat pentru profilul său aromatic rafinat și pentru capacitatea de a conferi preparatelor o complexitate gustativă fără a impune o iuțeală excesivă. Din punct de vedere gastronomic, este considerat unul dintre cei mai eleganți ardei iuți, fiind utilizat adesea în combinație cu fructe și nuci.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Habanero Red: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Habanero Red reprezintă una dintre cele mai emblematice varietăți ale speciei sale, fiind utilizat ca etalon pentru iuțeala de nivel înalt înainte de apariția hibrizilor „super-hot”. Acesta este apreciat pentru combinația distinctă de arsură intensă și aromă floral-fructată, fiind un pilon central al gastronomiei din Peninsula Yucatán și al industriei sosurilor picante din Caraibe. Din punct de vedere economic, este o varietate de export masiv, fiind preferat de procesatori pentru randamentul ridicat în extract de capsaicină și profilul aromatic stabil.
 

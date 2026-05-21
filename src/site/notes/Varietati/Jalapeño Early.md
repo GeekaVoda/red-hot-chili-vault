@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño Early: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño Early reprezintă o selecție hibridă creată specific pentru cultivatorii din regiunile cu sezoane de vegetație scurte sau pentru cei care doresc o recoltă timpurie. Acesta este apreciat pentru rezistența sa la temperaturi mai scăzute în comparație cu alte varietăți de _Capsicum_ și pentru capacitatea de a produce fructe mature într-un interval record. Din punct de vedere horticole, este una dintre cele mai fiabile varietăți, garantând producția chiar și în condiții de vară mai puțin constante.
 

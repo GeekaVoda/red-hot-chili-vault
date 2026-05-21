@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño Biker Billy: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño Biker Billy reprezintă una dintre cele mai viguroase și iuți selecții din familia Jalapeño, fiind creat special pentru a oferi o intensitate superioară față de varietățile comerciale standard. Această varietate poartă numele celebrului pasionat de motociclete și gastronomie, Billy Hufnagle, fiind selecționată pentru a satisface cererea de ardei cu pereți foarte groși și o iuțeală semnificativ mai pregnantă. Din punct de vedere horticole, este recunoscut pentru productivitatea sa excepțională și mărimea impresionantă a fructelor.
 

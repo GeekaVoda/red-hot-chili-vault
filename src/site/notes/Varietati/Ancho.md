@@ -3,7 +3,7 @@
 ---
 
 
-## Ancho: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Ancho reprezintă varianta uscată a ardeiului Poblano ajuns la maturitate deplină și este considerat cel mai utilizat ardei iute uscat din Mexic. Împreună cu ardeii Mulato și Pasilla, acesta formează „Sfânta Treime” a sosurilor tradiționale mexicane. Este apreciat nu pentru puterea sa de a arde, ci pentru complexitatea sa aromatică și capacitatea de a conferi textură și culoare profundă preparatelor. Din punct de vedere economic, Ancho este un produs de bază în industria alimentară, fiind esențial pentru producția de pudră de chili și baze pentru sosuri _mole_.
 

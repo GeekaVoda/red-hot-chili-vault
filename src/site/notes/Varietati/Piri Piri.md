@@ -3,7 +3,7 @@
 ---
 
 
-## Piri Piri: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Piri Piri (cunoscut și sub denumirile Peri Peri, Pili Pili sau African Bird's Eye) reprezintă o varietate fundamentală în cultura gastronomică africană și portugheză. Acesta este apreciat pentru dimensiunile sale reduse, dar și pentru o iuțeală vibrantă, „curată”, care nu alterează aromele celorlalte ingrediente. Din punct de vedere economic, este un produs de export major pentru țări precum Mozambic și Malawi, fiind ingredientul central al faimoaselor sosuri și marinade pentru puiul la grătar (Piri Piri Chicken).
 

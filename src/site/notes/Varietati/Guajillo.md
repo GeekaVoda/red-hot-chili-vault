@@ -3,7 +3,7 @@
 ---
 
 
-## Guajillo: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Guajillo reprezintă a doua cea mai utilizată varietate de ardei uscat în bucătăria mexicană, imediat după Ancho. Este apreciat pentru culoarea sa roșu-cărămiziu vibrantă și pentru profilul său aromatic ce combină notele dulci-fructate cu o aciditate răcoritoare. Spre deosebire de ardeii din „Sfânta Treime”, care sunt utilizați pentru profunzime și nuanțe de ciocolată, Guajillo este vedeta sosurilor fluide, a marinadelor pentru carne (cum este cea pentru _Al Pastor_) și a supelor tradiționale.
 

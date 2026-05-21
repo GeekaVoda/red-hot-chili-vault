@@ -3,7 +3,7 @@
 ---
 
 
-## Malagueta: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Malagueta reprezintă una dintre cele mai importante varietăți de ardei iute din Brazilia, Portugalia și Mozambic, fiind un element definitoriu al identității culinare lusofone. Acesta este apreciat pentru dimensiunile sale reduse și pentru iuțeala sa persistentă, fiind utilizat pe scară largă în supe, toptanuri de pește și în faimosul ulei infuzat servit la mesele braziliene. Din punct de vedere economic, este o cultură agricolă vitală în regiunile Minas Gerais și Bahia, fiind exportat sub formă de murături în oțet în întreaga lume.
 

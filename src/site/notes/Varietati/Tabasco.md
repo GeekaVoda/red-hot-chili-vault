@@ -3,7 +3,7 @@
 ---
 
 
-## Tabasco: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Tabasco reprezintă una dintre cele mai cunoscute varietăți de ardei iuți la nivel global, faima sa fiind legată indisolubil de sosul omonim produs în Louisiana. Acesta este apreciat pentru profilul său unic, fiind singura varietate de ardei iute care este „suculentă” în interior (nu are pulpa uscată sau goală). Din punct de vedere economic, este o cultură industrială masivă, fiind cultivat în America Centrală și de Sud pentru a asigura cererea constantă a industriei de condimente lichide.
 

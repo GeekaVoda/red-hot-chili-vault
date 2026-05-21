@@ -3,7 +3,7 @@
 ---
 
 
-## Rocoto Costa Rica Red: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Rocoto Costa Rica Red reprezintă o adaptare specifică a speciei _Capsicum pubescens_ la climatele montane din America Centrală. Acesta este apreciat pentru vigoarea plantei și pentru capacitatea sa de a produce fructe masive, cu o textură extrem de cărnoasă, fiind considerat una dintre cele mai suculente varietăți de Rocoto. Din punct de vedere gastronomic, este utilizat pentru a oferi o bază picantă consistentă sosurilor și tocanelor, fiind preferat în regiunile înalte din Costa Rica datorită aromei sale bogate și a iuțelii care persistă fără a fi agresivă.
 

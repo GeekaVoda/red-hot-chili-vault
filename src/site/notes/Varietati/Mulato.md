@@ -3,7 +3,7 @@
 ---
 
 
-## Mulato: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Mulato reprezintă o varietate esențială de ardei uscat, fiind componenta cea mai închisă la culoare din „Sfânta Treime” a ardeilor folosiți în sosurile _mole_. Deși vizual se aseamănă foarte mult cu ardeiul Ancho, acesta se distinge prin profilul său chimic și aromatic mai dens. Este apreciat în mod special pentru capacitatea de a conferi preparatelor o culoare brună-neagră intensă și o complexitate gustativă ce amintește de ingredientele de cofetărie fină. Din punct de vedere gastronomic, este considerat un ingredient de lux în rețetele tradiționale mexicane complexe.
 

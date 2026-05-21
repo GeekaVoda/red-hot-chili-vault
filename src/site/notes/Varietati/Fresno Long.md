@@ -3,7 +3,7 @@
 ---
 
 
-## Fresno Long: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Fresno Long reprezintă o varietate selecționată a clasicului Fresno, fiind apreciat pentru dimensiunile sale mai generoase și pentru versatilitatea culinară. Acesta este adesea confundat cu ardeiul Jalapeño datorită formei similare, însă se distinge prin pereții mai subțiri și un profil aromatic mai complex pe măsură ce se maturizează. Din punct de vedere economic, este o varietate populară în piețele de produse proaspete din Statele Unite și Mexic, fiind preferat pentru prepararea sosurilor tip salsa și pentru procesul de afumare.
 

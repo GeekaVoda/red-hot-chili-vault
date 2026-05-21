@@ -3,7 +3,7 @@
 ---
 
 
-## Rocoto Manzano Red: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Rocoto Manzano Red reprezintă una dintre cele mai rezistente și longevive varietăți de ardei iute, fiind adaptat climatului montan de mare altitudine din Munții Anzi. Acesta este apreciat pentru estetica sa particulară și pentru pulpa neobișnuit de groasă, asemănătoare cu cea a unui ardei gras, dar cu o intensitate a iuțelii care surprinde consumatorii neavizați. Din punct de vedere economic, este o cultură de bază în Peru și Bolivia, fiind utilizat preponderent în stare proaspătă sau în preparate coapte, datorită dificultății de a fi uscat prin metode convenționale.
 

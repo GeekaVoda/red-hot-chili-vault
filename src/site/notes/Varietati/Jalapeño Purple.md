@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño Purple: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño Purple reprezintă o variantă ornamentală și gastronomică distinctivă a celebrului Jalapeño, fiind remarcat pentru estetica sa cromatică rară. Spre deosebire de varietățile standard care trec de la verde direct la roșu, această selecție dezvoltă un stadiu intermediar de un violet intens, aproape negru. Este apreciat în special pentru designul culinar și grădinăritul decorativ, oferind un contrast vizual puternic fără a sacrifica atributele de textură specifice grupului Jalapeño.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño Telica: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño Telica reprezintă o inovație hibridă modernă, fiind conceput pentru a maximiza productivitatea și rezistența în culturile comerciale de mare scară. Acesta este apreciat în industria procesatoare pentru dimensiunile sale impresionante și pentru uniformitatea fructelor, fiind unul dintre cei mai robuști hibrizi disponibili pe piață. Din punct de vedere economic, Telica este preferat de fermieri datorită pachetului genetic de rezistență la boli și a capacității de a produce fructe de calitate superioară chiar și în condiții de stres climatic.
 

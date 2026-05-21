@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño Brown: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño Brown (cunoscut și sub numele de Jalapeño Chocolate) reprezintă o variantă rară și distinctivă a clasicului Jalapeño, fiind apreciat de cultivatori și gastronomi pentru estetica sa deosebită și profilul gustativ mai dulce. Acesta se distinge prin culoarea fructului la maturitate, care nu devine roșu, ci un maro-ciocolatiu profund. Din punct de vedere economic, este considerat o varietate de nișă, fiind cultivat preponderent în grădini artizanale și utilizat în producția de sosuri gourmet care necesită o nuanță cromatică închisă.
 

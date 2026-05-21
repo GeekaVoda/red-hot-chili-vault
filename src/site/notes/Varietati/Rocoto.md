@@ -3,7 +3,7 @@
 ---
 
 
-## Rocoto: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Rocoto reprezintă una dintre cele mai distincte și vechi varietăți de ardei iute din lume, fiind pilonul central al gastronomiei andine, în special în Peru și Bolivia. Acesta se diferențiază radical de restul ardeilor prin rezistența sa unică la temperaturi scăzute și prin trăsăturile sale morfologice atipice. Din punct de vedere gastronomic, este apreciat pentru pulpa sa extrem de groasă și suculentă, fiind utilizat aproape exclusiv în stare proaspătă pentru preparate precum _Rocoto Relleno_ (ardei umplut) sau în sosuri picante cu bază de fructe.
 

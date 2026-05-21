@@ -3,7 +3,7 @@
 ---
 
 
-## Rocoto Aji Largo: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Rocoto Aji Largo reprezintă o varietate rară și distinctivă în cadrul speciei sale, fiind apreciat pentru forma sa neobișnuit de alungită comparativ cu varietățile sferice tipice de Rocoto. Acesta păstrează toate caracteristicile de rezistență montană ale grupului din care provine, fiind adaptat climatului răcoros din Munții Anzi. Din punct de vedere gastronomic, este căutat pentru echilibrul dintre pulpa sa suculentă și o iuțeală vibrantă, fiind ideal pentru sosuri proaspete (salsas) și pentru consumul crud în salate, unde forma sa facilitează tăierea în rondele uniforme.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Zebrange: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Zebrange reprezintă o varietate rară și spectaculoasă, rezultată în urma unei mutații sau a unei selecții atente în cadrul familiei _Aji_. Este extrem de apreciat de colecționari pentru estetica sa unică, fiind unul dintre puținii ardei iuți care prezintă striații (vărgate) pe toată suprafața fructului. Din punct de vedere gastronomic, este utilizat pentru a adăuga o notă vizuală deosebită salatelor și sosurilor proaspete, oferind în același timp un profil aromatic complex, specific speciilor sud-americane.
 

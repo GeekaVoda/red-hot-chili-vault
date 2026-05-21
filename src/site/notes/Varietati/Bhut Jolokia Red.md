@@ -3,7 +3,7 @@
 ---
 
 
-## Bhut Jolokia Red: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Bhut Jolokia Red (cunoscut și sub denumirile de **Ghost Pepper**, **U-Morok** sau **Naga Jolokia**) reprezintă varietatea care a revoluționat industria ardeilor iuți, fiind prima care a depășit pragul simbolic de 1.000.000 de unități pe scara Scoville. Acesta a deținut titlul de cel mai iute ardei din lume în perioada 2007–2011 conform Guinness World Records. Din punct de vedere economic și cultural, este un produs de importanță strategică pentru regiunile din nord-estul Indiei, fiind utilizat atât ca aliment, cât și ca mijloc de autoapărare (în fabricarea grenadelor cu gaz iritant de către armata indiană).
 

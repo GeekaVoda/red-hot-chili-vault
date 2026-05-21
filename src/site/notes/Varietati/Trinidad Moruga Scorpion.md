@@ -3,7 +3,7 @@
 ---
 
 
-## Trinidad Moruga Scorpion: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Trinidad Moruga Scorpion reprezintă una dintre cele mai formidabile varietăți din categoria „super-hot”, fiind primul ardei din istorie care a depășit pragul de **2.000.000 SHU** în testele individuale de laborator. În 2012, Institutul pentru Ardei Iuți din cadrul Universității de Stat din New Mexico l-a identificat ca fiind cel mai iute ardei din lume la acea dată. Din punct de vedere economic, este o varietate de referință pentru producătorii de sosuri extreme, fiind apreciat pentru faptul că iuțeala sa provine dintr-o selecție naturală stabilizată, nu dintr-un hibrid de laborator recent.
 

@@ -3,7 +3,7 @@
 ---
 
 
-## Bhut Jolokia Chocolate: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Bhut Jolokia Chocolate (varianta maro a celebrului Ghost Pepper) reprezintă una dintre cele mai puternice și apreciate selecții din categoria „super-hot”. Acesta este recunoscut pentru un profil aromatic distinct, fiind considerat de mulți cultivatori ca fiind mai agresiv și mai iute decât varianta roșie originală. Din punct de vedere gastronomic, este utilizat pentru a oferi profunzime sosurilor ultra-picante, fiind preferat în rețetele de tip BBQ sau în marinadele care necesită o notă subtilă de fum și o arsură de lungă durată.
 

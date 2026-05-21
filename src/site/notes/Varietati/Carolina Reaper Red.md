@@ -3,7 +3,7 @@
 ---
 
 
-## Carolina Reaper Red: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Carolina Reaper Red reprezintă varietatea care a redefinit limitele iuțelii extreme, deținând oficial titlul de cel mai iute ardei din lume conform Guinness World Records (2013–2023). Acesta este apreciat în comunitatea "chiliheads" pentru concentrația sa masivă de capsaicină, dar și pentru profilul aromatic neașteptat de dulce-fructat care precedă instalarea arsurii. Din punct de vedere economic, este motorul principal al industriei sosurilor de tip "ultra-hot", fiind cultivat la nivel global pentru producția de extracte și pudre cu potență maximă.
 

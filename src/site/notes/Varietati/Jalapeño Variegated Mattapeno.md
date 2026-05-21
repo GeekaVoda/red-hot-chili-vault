@@ -3,7 +3,7 @@
 ---
 
 
-## Jalapeño Variegated Mattapeno: Introducere și clasificare
+## Introducere și clasificare
 
 Ardeiul Jalapeño Variegated Mattapeno reprezintă una dintre cele mai spectaculoase și rare varietăți din familia Jalapeño, fiind extrem de apreciat în comunitățile de colecționari pentru mutația sa genetică unică. Acesta se distinge prin fenomenul de variegare, care afectează atât frunzișul, cât și fructele, creând un aspect vizual marmorat. Din punct de vedere economic, Mattapeno este o varietate de nișă, cultivată aproape exclusiv de entuziaști și grădinari artizani pentru estetica sa excepțională și calitatea culinară surprinzătoare.
 
