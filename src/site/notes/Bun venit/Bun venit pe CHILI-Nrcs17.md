@@ -26,7 +26,7 @@ Dincolo de a fi un simplu ingredient în bucătărie sau un număr pe o scară a
 
 ---
 
-## Dincolo de iuțeală: Genul Capsicum ca simbol gastronomic și biologic
+## I. Dincolo de iuțeală: Genul Capsicum ca simbol gastronomic și biologic
 
 Există plante care hrănesc trupul și plante care aprind imaginația. [[Genuri/Genul Capsicum\|Genul Capsicum]] le face pe amândouă cu o grație aproape mistică. Adesea priviți doar prin prisma competițiilor de rezistență la picant, ardeii iuți sunt, în realitate, marii cuceritori ai istoriei noastre. Ei au traversat oceane, au dărâmat prejudecăți și au redefinit peisajul cultural și culinar al planetei.
 
@@ -36,7 +36,7 @@ Vă invităm să parcurgem împreună acest drum al cunoașterii, pagină cu pag
 
 ---
 
-## Arhitectura unei pasiuni: Cele cinci specii majore
+## II. Arhitectura unei pasiuni: Cele cinci specii majore
 
 Întreaga gastronomie globală și diversitatea remarcabilă a ardeilor iuți se sprijină, în realitate, pe umerii a cinci specii mari cultivate. Fiecare dintre aceste linii botanice își are propriul areal de origine, propriile particularități structurale și o istorie unică:
 
@@ -60,7 +60,7 @@ Cea mai enigmatică, izolată și fascinantă specie. *Pubescens* trăiește aco
 ![pexels-jankao-11318047.jpg](/img/user/Resurse/@site_related/pexels-jankao-11318047.jpg)
 > Varietăți de ardei iute proaspăt, boia măcinată și fulgi deshidratați. (Thx, Jankao / Pexels)
 
-## O alchimie a sănătății și a stării de bine
+## III. O alchimie a sănătății și a stării de bine
 
 Ardeiul iute nu este doar un triumf al gustului, ci și un aliat formidabil al biologiei noastre. Știința modernă confirmă ceea ce comunitățile tradiționale știau empiric: moleculele de capsaicină sunt adevărați protectori ai organismului.
 
@@ -71,7 +71,7 @@ Ardeiul iute nu este doar un triumf al gustului, ci și un aliat formidabil al b
 
 ---
 
-## 🗺️ Harta CHILI-Nrcs17: Cum să explorezi site-ul?
+## 🗺️ IV. Harta CHILI-Nrcs17: Cum să explorezi site-ul?
 
 Structura site-ului urmărește o scară anatomică și culturală precisă, ghidându-te, dragă cititorule, de la contextul biologic general către specificul fiecărei varietăți:
 
@@ -97,6 +97,7 @@ Structura site-ului urmărește o scară anatomică și culturală precisă, ghi
 
 ---
 
+## V. Altele...
 
 În cazul ardeiului iute, farmecul nu stă doar în cifrele de pe o scară a iuțelii sau în performanțele noilor hibrizi, ci în povestea și savoarea unică pe care fiecare varietate le aduce în farfurie. Această bogăție de arome este cea care transformă o simplă masă într-o sărbătoare a simțurilor și o veritabilă experiență culturală.
 
@@ -106,4 +107,6 @@ Structura site-ului urmărește o scară anatomică și culturală precisă, ghi
 
 
 ---
-**Notă:** Toate datele istorice, biogeografice, botanice sau de altă natură prezentate pe acest site au fost riguros structurate și documentate de către autor, în colaborare cu asistentul AI, Gemini. În procesul de redactare a conținutului au fost utilizate exclusiv sursele de referință și bibliografia de specialitate menționate la finalul fiecărui capitol și al fiecărei pagini componente.
+## VI. Note:
+
+**Notă informativă:** Toate datele istorice, biogeografice, botanice sau de altă natură prezentate pe acest site au fost riguros structurate și documentate de către autor, în colaborare cu asistentul AI, Gemini. În procesul de redactare a conținutului au fost utilizate exclusiv sursele de referință și bibliografia de specialitate menționate la finalul fiecărui capitol și al fiecărei pagini componente.
