@@ -1,0 +1,93 @@
+{
+  "/": [
+    "Bun venit",
+    "Taxonomie",
+    "Scara Scoville",
+    "Genuri",
+    "Specii",
+    "Varietati",
+    "Gastronomie",
+    "Narciselor 17"
+  ],
+  "/Bun venit": [
+    "Bun venit pe CHILI-Nrcs17"
+  ],
+  "/Taxonomie": [
+    "Cadrul taxonomic superior"
+  ],
+  "/Scara Scoville": [
+    "Scara Scoville"
+  ],
+  "/Genuri": [
+    "Genul Capsicum"
+  ],
+  "/Specii": [
+    "Capsicum annuum",
+    "Capsicum baccatum",
+    "Capsicum chinense",
+    "Capsicum frutescens",
+    "Capsicum pubescens"
+  ],
+  "/Varietati": [
+    "7 Pot",
+    "7 Pot Douglah",
+    "Ají Amarillo",
+    "Ancho",
+    "Bhut Jolokia Chocolate",
+    "Bhut Jolokia Red",
+    "Bird Eye Demon",
+    "Carolina Reaper Red",
+    "Cayenne",
+    "Cherry Bomb",
+    "Chilhuacle Negro",
+    "Ciliegia Piccante",
+    "Fresno",
+    "Fresno Long",
+    "Guajillo",
+    "Habanero Chocolate",
+    "Habanero Orange",
+    "Habanero Red",
+    "Jalapeño",
+    "Jalapeño Biker Billy",
+    "Jalapeño Brown",
+    "Jalapeño Early",
+    "Jalapeño Purple",
+    "Jalapeño Telica",
+    "Jalapeño Variegated Mattapeno",
+    "Malagueta",
+    "Mulato",
+    "Naga (Morich, Dorset, Viper)",
+    "Pasilla",
+    "Pequin",
+    "Piri Piri",
+    "Poblano",
+    "Primortalii",
+    "Rocoto",
+    "Rocoto Aji Largo",
+    "Rocoto Canario",
+    "Rocoto Costa Rica Red",
+    "Rocoto Manzano Red",
+    "Rocoto Montufar",
+    "Serrano",
+    "Tabasco",
+    "Tepin, Chiltepin",
+    "Thai Bird's Eye",
+    "Trinidad Moruga Scorpion",
+    "Trinidad Scorpion",
+    "Zebrange"
+  ],
+  "/Gastronomie": [
+    "Salsa"
+  ],
+  "/Gastronomie/Salsa": [
+    "Mole",
+    "Mole Negro",
+    "Mole Poblano",
+    "Mole Verde",
+    "Pico de Galo",
+    "Salsa"
+  ],
+  "/Narciselor 17": [
+    "under construction"
+  ]
+}
