@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Bun venit/Bun venit pe CHILI-Nrcs17/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# Bun venit pe CHILI-Nrcs17 — Povestea, culorile și gustul celor cinci specii de ardei iute care au cucerit lumea
+
+# Povestea, culorile și gustul celor cinci specii de ardei iute care au cucerit lumea
 
 ---
 

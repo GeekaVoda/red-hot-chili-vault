@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Taxonomie/Cadrul taxonomic superior/","dg-note-properties":{}}
 ---
 
-# Cadrul taxonomic superior: De la regnul Plantae la genul Capsicum
+
+# De la regnul Plantae la genul Capsicum
 
 > „*Alle Dinge sind Gift, und nichts ist ohne Gift, allein die Dosis macht dass ein Ding kein Gift ist.* Toate au otravă și nimic nu este fără otravă, doza singură face un lucru neotrăvitor.”
 > — **Paracelsus**, 1538
