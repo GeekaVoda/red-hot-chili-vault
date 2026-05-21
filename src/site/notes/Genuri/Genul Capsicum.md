@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Genuri/Genul Capsicum/","dg-note-properties":{}}
 ---
 
-# Genul Capsicum — O perspectivă integrată asupra celor cinci specii majore cultivate
+# O perspectivă integrată asupra celor cinci specii majore cultivate
+
 
 ## I. Introducere și cadrul taxonomic extins (Solanaceae)
 

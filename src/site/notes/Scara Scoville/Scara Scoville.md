@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/Scara Scoville/Scara Scoville/","dg-note-properties":{}}
 ---
 
-# Scara Scoville: Istoria, chimia și măsurarea intensității capsaicinei
+# Istoria, chimia și măsurarea intensității capsaicinei
 
----
+
+![scara_scoville.png](/img/user/Resurse/@site_related/scara_scoville.png)
 
 ## 1. Originea istorică: Testul organoleptic Scoville
 
