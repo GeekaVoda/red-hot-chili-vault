@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum chinense/","dg-note-properties":{}}
 ---
 
-# Capsicum chinense — Monografie botanică, istoric și gastronomie
+# Monografie botanică, istoric și gastronomie
 
----
+
 
 ## I. Originea și contextul istoric
 

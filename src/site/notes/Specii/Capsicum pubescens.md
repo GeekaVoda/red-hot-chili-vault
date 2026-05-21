@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum pubescens/","dg-note-properties":{}}
 ---
 
-# Capsicum pubescens — Monografie botanică, istoric și gastronomie
+# Monografie botanică, istoric și gastronomie
 
----
+
 
 ## I. Originea și contextul istoric
 ### Preistoria ardeiului

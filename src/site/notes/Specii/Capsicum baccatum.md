@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum baccatum/","dg-note-properties":{}}
 ---
 
-# Capsicum baccatum — Monografie botanică, istoric și gastronomie
+# Monografie botanică, istoric și gastronomie
 
----
+
 
 ## I. Originea și contextul istoric
 

@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum annuum/","dg-note-properties":{}}
 ---
 
-# Capsicum annuum — Monografie botanică, istoric și gastronomie
+# Monografie botanică, istoric și gastronomie
 
----
+
+![capsicum_annuum_reprezentative.png](/img/user/Resurse/@site_related/capsicum_annuum_reprezentative.png)
+> Capsicum annuum - reprezentativ
 
 ## I. Originea și contextul istoric
 
@@ -37,9 +39,6 @@ Spre deosebire de alte specii de *Capsicum* mai pretențioase la temperatură, *
 - **Ruta Asiatică**: Portughezii au transportat semințele prin nodurile lor comerciale din Goa (India), Malacca și Macao, introducând planta în interiorul Asiei meridionale și în China, unde a fost asimilată instantaneu în sistemele agricole locale datorită compatibilității cu climatul musonic.
 
 Această difuziune fulminantă reprezintă unul dintre cele mai clare exemple ale Schimbului Columbian, transformând radical sistemele culinare și peisajele agricole ale Vechiului Lume în mai puțin de un secol.
-
-![capsicum_annuum_reprezentative.png](/img/user/Resurse/@site_related/capsicum_annuum_reprezentative.png)
-> Capsicum annuum - reprezentativ
 
 ---
 

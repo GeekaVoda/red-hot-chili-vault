@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/Specii/Capsicum frutescens/","dg-note-properties":{}}
 ---
 
-# Capsicum frutescens — Monografie botanică, istoric și gastronomie
+# Monografie botanică, istoric și gastronomie
 
----
+
 
 ## I. Originea și contextul istoric
 
